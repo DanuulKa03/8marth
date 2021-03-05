@@ -161,6 +161,7 @@ header {
  
 .image-card { 
  width: 70%; 
+ align-self:center;
 } 
 .content2 { 
  background-color: #ecb390; 
