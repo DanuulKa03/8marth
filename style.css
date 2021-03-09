@@ -191,6 +191,7 @@ header {
   }
   .content {
     margin: 0;
+    aling-item:none;
   }
   .content1 {
     width: 100%;
